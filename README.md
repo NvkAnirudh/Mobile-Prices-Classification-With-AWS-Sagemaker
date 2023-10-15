@@ -76,5 +76,5 @@ After testing, remember to delete the SageMaker endpoint to avoid additional cha
 [SageMaker SKLearn Estimator](https://sagemaker.readthedocs.io/en/stable/frameworks/sklearn/using_sklearn.html) <br>
 [SageMaker Endpoint Deployment](https://sagemaker.readthedocs.io/en/stable/frameworks/sklearn/using_sklearn.html)
 
-Acknowledgments
+## Acknowledgments
 This project was created as part of an End-to-end ML Deployment tutorial by [Krish Naik](https://www.youtube.com/@krishnaik06)
