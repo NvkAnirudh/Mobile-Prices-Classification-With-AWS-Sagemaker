@@ -1,18 +1,18 @@
 # Mobile-Prices-Classification-With-AWS-Sagemaker
 
-Overview
+## Overview
 This project demonstrates the process of creating and deploying a machine learning model to classify mobile phone prices using AWS SageMaker. The project follows a step-by-step approach, from data preparation to model deployment. The classification problem involves predicting the price range of mobile phones based on their features.
 
 ## Prerequisites
 Before starting, make sure you have the following set up:
 
-AWS Account: You need an AWS account with administrative access.
+*AWS Account:* You need an AWS account with administrative access.
 
-AWS CLI: Configure the AWS CLI with your access key and secret access key.
+*AWS CLI:* Configure the AWS CLI with your access key and secret access key.
 
-Python Packages: Install the required packages from requirements.txt:
+*Python Packages:* Install the required packages from requirements.txt:
 
-#### pip install -r requirements.txt
+### pip install -r requirements.txt
 
 ## Step-by-Step Guide
 1. IAM User
